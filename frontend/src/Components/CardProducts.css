@@ -1,0 +1,64 @@
+.bpp_productCardbody {
+  height: inherit;
+  /* width: 92%; */
+  width: "20%";
+  min-width: 00px;
+  margin: 10px;
+  background-color: white;
+  /* display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center; */
+}
+
+.bpp_productCard-img {
+  /* width: 100%; */
+  height: inherit;
+  padding: 10px;
+  padding-left: 20%;
+}
+
+.bpp_productCard-header {
+  font-family: "poppins";
+  font-weight: 500;
+  padding-left: 24%;
+}
+
+.bpp_productCard-content {
+  padding: 10px;
+  font-size: 12px;
+}
+
+.bpp_productCard-pricebody {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.bpp_productCard-button1 {
+  background: #416bff !important;
+}
+
+.bpp_productCard-price2 {
+  font-weight: 400;
+  font-size: 10px;
+  color: #8b8b8b;
+}
+
+.bpp_productCard-price1 {
+  font-weight: 600;
+}
+/*
+ Copyright (C) 2022 Eunimart Omnichannel Pvt Ltd. (www.eunimart.com)
+ All rights reserved.
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU Lesser General Public License v3.0 as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU Lesser General Public License v3.0 for more details.
+ You should have received a copy of the GNU Lesser General Public License v3.0
+ along with this program.  If not, see <https://www.gnu.org/licenses/lgpl-3.0.html/>.
+*/

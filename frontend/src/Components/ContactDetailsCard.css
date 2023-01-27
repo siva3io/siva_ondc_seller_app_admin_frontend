@@ -1,0 +1,127 @@
+.bpp_cc-gridcards {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+}
+
+.bpp_cc-gridAllCards {
+  /* width: 82%;
+  padding:0px 20px 0px 20px; */
+}
+
+.bpp_Ad-GridAllbody {
+  background: #f9f9f9;
+}
+
+.bpp_contactCardbody {
+  /* height: inherit; */
+  /* width: 92%; */
+  margin: 10px;
+  background-color: white;
+  display: flex;
+  box-shadow: 0px 4px 8px rgb(0 0 0 / 10%);
+  border-radius: 16px;
+}
+
+.bpp_contactCard-img {
+  /* width: 100%; */
+  /* height: inherit; */
+  padding: 10px;
+  border-radius: 50%;
+  /* height: 200px;
+  width: 200px; */
+  height: 125px;
+  width: 125px;
+}
+
+.bpp_contactCard-header {
+  font-family: "poppins";
+  font-weight: 500;
+  padding-left: 24%;
+}
+
+.bpp_contactCard-content {
+  padding: 10px;
+  font-size: 12px;
+}
+
+.bpp_contactCard-pricebody {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  /* padding: 10px; */
+  padding: 10px 5px 10px 0;
+
+  width: max-content;
+  /* gap: 4px;
+  width: 177px;
+  height: 173px;
+  flex: none;
+  order: 1;
+  flex-grow: 0; */
+}
+
+.bpp_contactCard-button1 {
+  background: #416bff !important;
+}
+
+.bpp_contactCard-price2 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px !important;
+  line-height: 15px;
+  letter-spacing: 0.4px;
+  color: #8b8b8b;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  margin: 0px;
+  line-height: 1.5;
+}
+
+.bpp_contactCard-price1 {
+  /* font-weight: 600; */
+
+  font-weight: 500;
+  font-size: 19px;
+  line-height: 28px;
+  letter-spacing: 0.15px;
+  color: #000000;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.bpp_cantactCard-position {
+  margin: 0px;
+  line-height: 1.5;
+  font-weight: 500;
+  font-size: 13px !important;
+  line-height: 20px;
+  letter-spacing: 0.1px;
+  color: #001661;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  font-weight: 600 !important;
+}
+
+.bpp_detailsBar {
+  display: flex;
+  align-items: center;
+  margin: 5px 0 0 0;
+}
+/*
+ Copyright (C) 2022 Eunimart Omnichannel Pvt Ltd. (www.eunimart.com)
+ All rights reserved.
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU Lesser General Public License v3.0 as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU Lesser General Public License v3.0 for more details.
+ You should have received a copy of the GNU Lesser General Public License v3.0
+ along with this program.  If not, see <https://www.gnu.org/licenses/lgpl-3.0.html/>.
+*/

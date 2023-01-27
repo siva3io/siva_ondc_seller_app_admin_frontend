@@ -1,0 +1,52 @@
+.bpp_adview-Header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.bpp_sellercard-chipstatusall1 {
+  background: #a0ffb7;
+  color: black;
+  width: fit-content;
+  padding: 6px;
+  border-radius: 14px;
+  font-weight: 500;
+  font-size: 12px !important;
+}
+
+.bpp_adview-HeaderContent {
+  font-weight: 400;
+  font-size: 33px;
+}
+
+.bpp_adview-TitleCardsAll {
+  display: flex;
+}
+
+.bpp_adview-TitleCard1 {
+  width: 50%;
+}
+
+.bpp_adview-TitleCard2 {
+  width: 50%;
+}
+
+.bpp_adview-Title {
+  font-weight: 600;
+  font-size: 14px;
+  color: #a35599;
+  margin: 23px 10px 23px;
+}
+/*
+ Copyright (C) 2022 Eunimart Omnichannel Pvt Ltd. (www.eunimart.com)
+ All rights reserved.
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU Lesser General Public License v3.0 as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU Lesser General Public License v3.0 for more details.
+ You should have received a copy of the GNU Lesser General Public License v3.0
+ along with this program.  If not, see <https://www.gnu.org/licenses/lgpl-3.0.html/>.
+*/
